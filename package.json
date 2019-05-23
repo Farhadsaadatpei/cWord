@@ -1,0 +1,28 @@
+{
+  "name": "cword",
+  "version": "0.0.1",
+  "description": "Purpose of this liberary is to create an array that shows the words and frequent usage.",
+  "main": "cWord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farhadsaadatpei/cWord.git"
+  },
+  "keywords": [
+    "word",
+    "count",
+    "count",
+    "word",
+    "api",
+    "exclude",
+    "word"
+  ],
+  "author": "Farhad Saadatpei // Josue Arce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Farhadsaadatpei/cWord/issues"
+  },
+  "homepage": "https://github.com/Farhadsaadatpei/cWord#readme"
+}
