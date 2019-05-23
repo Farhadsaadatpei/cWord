@@ -15,10 +15,11 @@ Purpose of this liberary is to create an array that shows the words and frequent
 
 **NPM:** `npm i cword`
 
+**Create Instance**
 ```
 const t = new cWord(String)
 
-console.log(text.getCount(['and', 'if'])) // This will return text cound without the word 'and' and 'if'
+console.log(t.getCount(['and', 'if'])) // This will return text cound without the word 'and' and 'if'
 ```
 
 ### Contributors
