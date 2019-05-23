@@ -1,4 +1,4 @@
-# cWord ![Boot Build](https://img.shields.io/badge/Build-0.0.4-green.svg)
+# cWord ![Boot Build](https://img.shields.io/badge/Build-0.0.5-green.svg)
 Purpose of this liberary is to create an array that shows the words and frequent usage. 
 
 
