@@ -1,6 +1,6 @@
 {
   "name": "cword",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Purpose of this liberary is to create an array that shows the words and frequent usage.",
   "main": "cWord.js",
   "scripts": {
