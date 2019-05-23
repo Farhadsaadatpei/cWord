@@ -11,7 +11,7 @@ Purpose of this liberary is to create an array that shows the words and frequent
 **`getCount(exclude)`**
 
 ## Usage
-**Traditional:** Include `cWord.js` file in your project and just load it. 
+**Traditional:** Include `cWord.js` file in your project and load it. 
 
 **NPM:** `npm i cword`
 
